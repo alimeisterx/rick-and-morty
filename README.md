@@ -4,9 +4,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://ibb.co/Fxd1y8F https://ibb.co/wQ1fWkv" alt="project-screenshot" width="1000" height="1000/">
 
-<img src="https://ibb.co/wQ1fWkv" alt="project-screenshot" width="1000" height="1000/">
+![RM_Menu](https://user-images.githubusercontent.com/48620898/166570859-16d51a02-d01f-4733-99c7-5d3af78d7832.png)
+![RM_InGame](https://user-images.githubusercontent.com/48620898/166570887-bccd090a-6b82-4895-a09f-a01dcdaedf47.png)
 
   
   
