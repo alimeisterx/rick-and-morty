@@ -1,6 +1,33 @@
-# Rick and Morty | Computer Vision Game
-I built a Computer Vision GUI game where I integrated Hand Gesture Tracking using MediaPipe (an open-source framework to “build word-class machine learning solutions” by Google) and OpenCV to save Rick C-137 from Evil Morty.   It involves two stages: Palm detection and Hand landmarks identification.
-![RM_Menu](https://user-images.githubusercontent.com/48620898/166566332-b2ae39ce-4241-4e90-825f-07d7c7dbe916.png)
+<h1 align="center" id="title">Rick and Morty | Computer Vision Game</h1>
 
+<p id="description">a Computer Vision GUI game where I integrated Hand Gesture Tracking using MediaPipe (an open-source framework to “build word-class machine learning solutions” by Google) and OpenCV to save Rick C-137 from Evil Morty.</p>
 
-![RM_Git](https://user-images.githubusercontent.com/48620898/166566299-63c906e2-233f-48ec-9391-73d954d48fb4.png)
+<h2>Project Screenshots:</h2>
+
+<img src="https://ibb.co/Fxd1y8F https://ibb.co/wQ1fWkv" alt="project-screenshot" width="1000" height="1000/">
+
+<img src="https://ibb.co/wQ1fWkv" alt="project-screenshot" width="1000" height="1000/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Hand gesture recognition
+*   Hand gesture controller
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   MediaPipe
+*   OpenCV
+*   TensorFlow
+*   Pygame
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
