@@ -4,7 +4,7 @@
 
 <h2>Game screenshots:</h2>
 
-Solarized dark             |  Solarized Ocean
+Menu             |  Demo
 :-------------------------:|:-------------------------:
 ![RM_Menu](https://user-images.githubusercontent.com/48620898/166573539-d0016fa3-7a38-4dc6-a8cc-eaa192091551.png)  |  ![RM_InGame](https://user-images.githubusercontent.com/48620898/166573627-6dbd05dd-5114-415b-a03f-a695ab4aa98a.png)
 
