@@ -4,8 +4,8 @@
 
 <h2>Project Screenshots:</h2>
 
-![RM_Menu]<img src="https://user-images.githubusercontent.com/48620898/166570859-16d51a02-d01f-4733-99c7-5d3af78d7832.png" width="400" height="790">
-![RM_InGame]<img src="(https://user-images.githubusercontent.com/48620898/166570887-bccd090a-6b82-4895-a09f-a01dcdaedf47.png" width="400" height="790">
+<img src="https://user-images.githubusercontent.com/48620898/166570859-16d51a02-d01f-4733-99c7-5d3af78d7832.png" width="800" height="500">
+<img src="(https://user-images.githubusercontent.com/48620898/166570887-bccd090a-6b82-4895-a09f-a01dcdaedf47.png" width="800" height="500">
 
   
   
