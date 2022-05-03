@@ -5,9 +5,8 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://user-images.githubusercontent.com/48620898/166570859-16d51a02-d01f-4733-99c7-5d3af78d7832.png" width="800" height="500">
-<img src="(https://user-images.githubusercontent.com/48620898/166570887-bccd090a-6b82-4895-a09f-a01dcdaedf47.png" width="800" height="500">
+<img src="https://user-images.githubusercontent.com/48620898/166571575-1d7660fe-d1be-4818-be73-89fc162a897e.png" width="800" height="500">
 
-  
   
 <h2>🧐 Features</h2>
 
