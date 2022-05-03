@@ -6,8 +6,7 @@
 
 Menu             |  Demo
 :-------------------------:|:-------------------------:
-![RM_Menu](https://user-images.githubusercontent.com/48620898/166573539-d0016fa3-7a38-4dc6-a8cc-eaa192091551.png)  |  ![RM_InGame](https://user-images.githubusercontent.com/48620898/166573627-6dbd05dd-5114-415b-a03f-a695ab4aa98a.png)
-
+![RM_Menu](https://user-images.githubusercontent.com/48620898/166573539-d0016fa3-7a38-4dc6-a8cc-eaa192091551.png)  | ![iShwifty _ Vid](https://user-images.githubusercontent.com/48620898/166574437-9cca0e6c-43a7-444f-a4a6-af1ee3eeb1de.gif)
 
 
 <h2>🧐 Features</h2>
