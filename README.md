@@ -2,7 +2,7 @@
 
 <p id="description">This is a Computer Vision GUI game where I integrated Hand Gesture Tracking using MediaPipe (an open-source framework to “build word-class machine learning solutions” by Google) and OpenCV to save Rick C-137 from Evil Morty.</p>
 
-<h2>Game screenshots:</h2>
+<h2>Game demo:</h2>
 
 Menu             |  Demo
 :-------------------------:|:-------------------------:
